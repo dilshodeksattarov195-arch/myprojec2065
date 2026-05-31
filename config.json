@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpelete",
+        "uuid": 18225690,
+        "checksum": "a9r2cn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
